@@ -1,0 +1,101 @@
+/* jet #353535
+ming #3C6E71
+alice blue #EDF6F9
+gainsboro #d9d9d9
+indigo dye #284B63 */
+
+
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #000000;
+    height: 100vh;
+    width: 100vw;
+}
+
+.header-img{
+    min-height: 550px;
+    min-width: 827px;
+    width: 100%;
+}
+
+.header-video{
+    min-height: 550px;
+    min-width: 827px;
+    width: 100%;
+}
+
+.about-us{
+    position: absolute;
+    top: 607px;
+    bottom:0;
+    width: 100%;
+}
+
+/* background colors */
+.bg-jet{
+    background-color: #353535;
+}
+
+.bg-ming{
+    background-color: #3C6E71;
+}
+
+.bg-alice-blue{
+    background-color: #edf6f9;
+}
+
+.bg-gainsboro{
+    background-color: #d9d9d9;
+}
+
+.bg-indigo-dye{
+    background-color: #284B63;
+}
+
+.bg-arylide-yellow{
+    background-color: #F2DB69;
+}
+
+/* text colors */
+.text-jet{
+    color: #353535;
+}
+
+.text-ming{
+    color: #3C6E71;
+}
+
+.text-alice-blue{
+    color: #edf6f9;
+}
+
+.text-gainsboro{
+    color: #d9d9d9;
+}
+
+.text-indigo-dye{
+    color: #284B63;
+}
+
+.text-arylide-yellow{
+    color: #F2DB69;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+/* page sections */
+.section-1{
+    background-color: #edf6f9;
+    height:450px;
+    width: 100%;
+}
+
+.section-2{
+    background-color: #353535;
+    height:450px;
+    width: 100%;
+}
