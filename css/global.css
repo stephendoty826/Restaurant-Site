@@ -13,18 +13,6 @@ body{
     width: 100vw;
 }
 
-.header-img{
-    min-height: 550px;
-    min-width: 827px;
-    width: 100%;
-}
-
-.header-video{
-    min-height: 550px;
-    min-width: 827px;
-    width: 100%;
-}
-
 .about-us{
     position: absolute;
     top: 607px;

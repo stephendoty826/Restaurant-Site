@@ -11,6 +11,18 @@ indigo dye #284B63 */
     overflow: hidden;
 }
 
+.header-img{
+    min-height: 550px;
+    min-width: 827px;
+    width: 100%;
+}
+
+.header-video{
+    min-height: 550px;
+    min-width: 827px;
+    width: 100%;
+}
+
 /* z-index */
 .z10{
     z-index: 10;
